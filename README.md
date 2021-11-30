@@ -2,4 +2,4 @@
 
 The project shows the integration of Power BI and Power Virtual Agents.
 
-You can click in this link to interact with the assistent virtual
+You can check he assistent virtual on https://vigorous-einstein-b360e4.netlify.app/
